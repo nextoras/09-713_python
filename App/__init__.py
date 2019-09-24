@@ -1,4 +1,5 @@
 import requests
+import json
 
 url = "https://new.timerman.org/api/v1/events"
 
